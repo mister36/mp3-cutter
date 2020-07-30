@@ -2,18 +2,6 @@
 
 MP3 Cutter is a JavaScript library and a NodeJS module that allows you to cut your MP3 files by seconds.
 
-## NPM
-
-```
-npm install --save mp3-cutter
-```
-
-## Yarn
-
-```
-yarn add mp3-cutter
-```
-
 ## Usage
 
 ```
@@ -43,7 +31,7 @@ Path to the file to be cut.
 
 ##### `responseObj {Object}`
 
-HTTP response objec
+HTTP response object
 
 ##### `start {Number}`
 
